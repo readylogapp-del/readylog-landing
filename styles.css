@@ -1,0 +1,48 @@
+/* ===========================================
+   ReadyLog — Estilos de la landing page
+   =========================================== */
+
+
+/* 1. EL CUERPO DE LA PÁGINA
+   Aquí defines cómo se ve toda la página por defecto:
+   color de fondo, tipo de letra, etc.
+   Empieza por aquí. */
+
+body {
+  /* Tus estilos aquí */
+}
+
+
+/* 2. EL TÍTULO PRINCIPAL
+   Cómo se ve el <h1>. Tamaño, color, alineación... */
+
+h1 {
+  /* Tus estilos aquí */
+}
+
+
+/* 3. EL PÁRRAFO
+   Cómo se ve el <p>. */
+
+p {
+  /* Tus estilos aquí */
+}
+
+
+/* 4. EL BOTÓN
+   El <a> tiene que parecer un botón.
+   Pista: padding, background-color, border-radius,
+   text-decoration: none, color del texto. */
+
+a {
+  /* Tus estilos aquí */
+}
+
+
+/* 5. CENTRAR TODO EN PANTALLA (opcional, pero queda bien)
+   El <main> contiene todo. Puedes usar Flexbox
+   para centrarlo vertical y horizontalmente. */
+
+main {
+  /* Tus estilos aquí */
+}
