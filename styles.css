@@ -25,7 +25,9 @@ body {
    Cómo se ve el <h1>. Tamaño, color, alineación... */
 
 h1 {
-  /* Tus estilos aquí */
+   font-size: larger;
+   padding-bottom: 10px;
+   align-items: center;
 }
 
 
