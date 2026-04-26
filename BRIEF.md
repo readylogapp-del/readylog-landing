@@ -57,4 +57,4 @@ No hay diseño "correcto". Hay un diseño tuyo. Si te gusta cómo queda, está b
 
 Cuando termines la #1, hay una #2 esperando: añadir una sección "¿Qué es ReadyLog?" con más detalle. Y luego una #3, y una #4. Cada misión es un trozo nuevo. La página va a crecer contigo a lo largo de las semanas.
 
-Pregúntame cualquier cosa cuando te bloquees. Suerte.
+Pregúntame cualquier cosa cuando te bloquees. Mucha suerte.
